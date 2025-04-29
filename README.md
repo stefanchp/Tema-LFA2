@@ -1,7 +1,6 @@
 #  Transformare Regex in DFA
 
 Transforma expresii regulate in DFA si testeaza eficient siruri de intrare.  
-Proiect simplu, educativ si robust pentru teoria limbajelor formale si automate.
 
 ---
 
